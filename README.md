@@ -1,5 +1,12 @@
 # data-processing-spark
 
+## Hypothetical Scenario:
+XYZ is a startup in Halifax, which is planning to build a data management portal for the Halifax region. The system can be conceptualized as a content management system (CMS). The project has three components,  
+(1) Data management,  
+(2) Visualization-Analytics, and  
+(3) Front-end design.  
+XYZ is trying to identify key performance indicators (KPIs) in the Halifax region to improve the business, education, lifestyle, and safety. In this phase, the project focuses on implementing a BigData infrastructure and processing data extracted from Twitter, NEWS API, and Open Movie Database. The company believes tweets on “Canada”, “University”, “Education” etc. may contain essential information related to education in Canada and incoming. Similarly, news content and movies on or related to various aspects of Canada may provide meaningful information.
+
 ## A. Cluster Setup
 1. I have created the cloud account in AWS. I have created an EC2 instance of ubuntu version. Please see the image aws_screenshot.pnf
 2. I have initialized Apache spark in my cloud account. Please see image apachespark.png
